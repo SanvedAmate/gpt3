@@ -5,7 +5,7 @@ import './footer.css';
 const Footer = () => (
   <div className="gpt3__footer section__padding">
     <div className="gpt3__footer-heading">
-      <h1 className="gradient__text">D Step in to the future before others</h1>
+      <h1 className="gradient__text">Step in to the future before others</h1>
     </div>
 
     <div className="gpt3__footer-btn">
@@ -34,7 +34,7 @@ const Footer = () => (
         <h4>Get in touch</h4>
         <p>Sanved Amate</p>
         <p>+91-7709145326</p>
-        <a href="mailto:sanvedamate8552@gmail.com">sanvedamate8552@gmail.com</a>
+        <a href="mailto:sanvedamate8552@gmail.com" className="text-white">sanvedamate8552@gmail.com</a>
 
       </div>
     </div>
